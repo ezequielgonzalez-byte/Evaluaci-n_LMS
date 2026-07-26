@@ -4,32 +4,25 @@
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz 
-> **Estudiante:** Ezequiel Gonzalez,Ashley Aguilar, Clixto Santos. 
+> **Estudiante:** Ezequiel Gonzalez,Ashley Aguilar, Clixto Santos,Luis Rodriguez. 
 > **Fecha:** 26 / 07 / 2026 
 
 ---
 
 # 📖 Descripción
-
-Este repositorio presenta una **reseña crítica comparativa** de tres Sistemas de Gestión del Aprendizaje (Learning Management System - LMS): **Moodle**, **Blackboard** y **Canvas**, considerando sus principales características, ventajas, limitaciones y aplicaciones en contextos educativos.
+Las plataformas  como las  presente se basa en un examen crítico analítico y comparativo sobre tres de los Entornos Virtuales de Aprendizaje  relevantes en la educación superior : Moodle, Blackboard Learn y Canvas LMS. Como se debe conocer  su arquitectura tecnológica, experiencia de usuario (UX/UI), capacidades pedagógicas y modelos de sostenibilidad financiera, ofreciendo una guía técnico-académica para la toma de decisiones institucionales en la selección de tecnologías educativas.
 
 ---
 
 # 🎯 Objetivo
 
-Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseña crítica, aplicando criterios académicos y tecnológicos para valorar su utilización en ambientes virtuales de aprendizaje.
+Analizar y comparar plataformas LMS desde un enfoque técnico y pedagógico, para establecer su eficacia y utilidad en la educación en línea.
 
 ---
 
 # 📄 Resumen
 
-> **Instrucciones:**
->
-> Escriba un resumen entre **150 y 250 palabras**.
->
-> Utilice **tiempo pasado**.
->
-> Explique de forma breve el propósito del análisis, la metodología utilizada y las principales conclusiones.
+El presente estudio evaluó de manera comparativa las plataformas de gestión del aprendizaje (Learning Management Systems - LMS) Moodle, Blackboard y Canvas, enfocándose en sus fortalezas operativas, pedagógicas y arquitectónicas dentro del contexto e-learning. Para la realización del trabajo se empleó una metodología descriptiva y cualitativa basada en la revisión documental especializada y el análisis heurístico de la interfaz y usabilidad de cada entorno. Durante el proceso se analizaron variables clave como la facilidad de uso, las herramientas de evaluación, la capacidad de personalización, los costos asociados a las licencias y la compatibilidad con estándares interoperables como LTI (Learning Tools Interoperability). Las principales conclusiones evidenciaron que, mientras Moodle destaca por su nivel superior de adaptabilidad y código abierto, Canvas ofrece la mejor experiencia de usuario e integración en la nube, y Blackboard sobresale por sus robustos entornos analíticos y de seguridad corporativa. Se concluyó que la elección idónea depende del equilibrio entre el presupuesto institucional, la infraestructura técnica disponible y el modelo pedagógico adoptado.
 
 ---
 
@@ -37,11 +30,12 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 > Escriba un máximo de cinco palabras clave en orden alfabético.
 
-- Blackboard
-- Canvas
-- Educación Virtual
-- LMS
-- Moodle
+
+- Tecnología Educativa
+- Plataformas Educativas
+- Interoperabilidad
+- MoodleEntornos Virtuales de Aprendizaje (EVA)
+
 
 ---
 
@@ -55,13 +49,13 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 ## Objetivo del análisis
 
-> Indique qué pretende demostrar con la comparación.
+> Este enfoque de herramientas permite comprender  cómo las variaciones en el diseño instruccional, la arquitectura de software y la usabilidad de Moodle, Blackboard y Canvas condicionan la efectividad del proceso de enseñanza-aprendizaje en la educación superior en línea.
 
 ---
 
 ## Justificación
 
-> Explique la importancia de conocer las diferentes plataformas educativas.
+> En los avances de las nuevas formas de enseñar manera acelerada  la educación, selecciona el LMS adecuado constituye una decisión estratégica crítica para las instituciones académicas. Entender las diferentes Técnicas, pedagógicas y económicas entre las plataformas líderes permite optimizar la inversión tecnológica, reducir la inconformidad y conexión del aprendizaje de docentes y estudiantes, y fomentar un aprendizaje verdaderamente significativo sustentado en tecnologías educativas efectivas..
 
 ---
 
@@ -77,19 +71,19 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 ### Ventajas
 
--
+-	Tienen la oportunidad de consultar materiales desde distintos dispositivos y planificar su estudio según su disponibilidad. 
 
--
+-	Entregar trabajos sin necesidad de desplazarse y recibir retroalimentación del profesor en el mismo entorno. 
 
--
+-	También pueden revisar contenidos múltiples veces.
 
 ### Desventajas
 
--
+-	La primera es que puede requerir una curva de aprendizaje, especialmente para aquellos profesores o administradores que no han trabajado antes con un sistema de gestión del aprendizaje. 
 
--
+-Algunas funciones avanzadas requieren configuraciones técnicas y una planificación previa. 
 
--
+-	Otro posible inconveniente es el diseño visual.
 
 ---
 
@@ -97,23 +91,25 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 ## Descripción
 
-> Escriba una breve descripción.
+> Es una herramienta educativa en línea que permite al usuario consultar materias, revisar contenidos, entregar tareas, realizar evaluaciones, participar en foros y consultar calificaciones. 
+La funcion de esta herramienta yuda comprender mejor la experiencia de estudiar en línea, organizar la actividades y comenzar la formación universitaria con mayor confianza.
+.
 
 ### Ventajas
 
--
+- Es  una herramienta con buena expectativa de usuario.
 
--
+- Tiene colaboración y creación conjunta.
 
--
+-Permite la integración de todos los producto de la linea.
 
 ### Desventajas
 
--
+-Es necesario tener conocimiento sobre Html.
 
--
+-Es una herramienta compleja de usar.
 
--
+-Tiene gran influencias de estudiantes.
 
 ---
 
@@ -125,11 +121,11 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 ### Ventajas
 
--•	Interfaz de facil uso y moderna:Tiene uno de los  diseño más  limpios que  facilita la navegación y la perdida  de aprendizaje tanto en profesores como en alumnos.
+-	Interfaz de facil uso y moderna:Tiene uno de los  diseño más  limpios que  facilita la navegación y la perdida  de aprendizaje tanto en profesores como en alumnos.
 
--•	Infraestructura SaaS nativa y Tolerancia a Fallos: Al ejecutarse en la nube (AWS), genera una forma sencilla de actualización automática sin caídas del sistema.
+-	Infraestructura SaaS nativa y Tolerancia a Fallos: Al ejecutarse en la nube (AWS), genera una forma sencilla de actualización automática sin caídas del sistema.
 
--•	Excelente unión  con herramientas externas: promueva las conexiones directa a través del estándar LTI con Google Workspace, Microsoft Teams, Zoom, entre otros.
+-Excelente unión  con herramientas externas: promueva las conexiones directa a través del estándar LTI con Google Workspace, Microsoft Teams, Zoom, entre otros.
 
 ### Desventajas
 
@@ -145,16 +141,16 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 | Criterio | Moodle | Blackboard | Canvas |
 |----------|---------|------------|---------|
-| Facilidad de uso | | | |
-| Diseño de la interfaz | | | |
-| Herramientas de evaluación | | | |
-| Comunicación | | | |
-| Recursos multimedia | | | |
-| Personalización | | | |
-| Aplicación móvil | | | |
-| Licencia | | | |
-| Costo | | | |
-| Público objetivo | | | |
+| Facilidad de uso |Intermedia / Compleja | Intermedia|Alta / Intuitiva |
+| Diseño de la interfaz | Tradicional, denso en opciones|Moderno (en versión Ultra) | Limpio, moderno y responsivo|
+| Herramientas de evaluación | Muy variadas (Cuestionarios, Tareas, Lecciones)|Avanzadas (Rúbricas, SafeAssign) |Ágiles (SpeedGrader, Rúbricas) |
+| Comunicación | Foros, Mensajería interna, Chat| Anuncios, Blackboard Collaborate|Mensajería, Muro de novedades, Notificaciones Push |
+| Recursos multimedia |Vía incrustación o plugins (H5P) | Integrados nativamente|Integración nativa con Canvas Studio |
+| Personalización | Total (Acceso al código fuente)|Limitada a la configuración del sistema |Media (Mediante temas y extensiones API) |
+| Aplicación móvil |Moodle App (Requiere optimización) | Blackboard Learn App| Canvas Student / Canvas Teacher|
+| Licencia |Código abierto (GNU GPL) |Propietaria | Propietaria (Existe versión open-source limitada)		|
+| Costo |Gratuito en licencia (Costo en hosting y personal) |Licencia corporativa elevada | Suscripción SaaS por usuario|
+| Público objetivo |Universidades, K-12, ONGs |Grandes universidades y corporaciones |Universidades, educación K-12 y formación online |
 
 ---
 
@@ -177,15 +173,15 @@ Desarrollar un análisis comparativo de tres plataformas LMS mediante una reseñ
 
 Escriba tres conclusiones relevantes.
 
-### Conclusión 1
+### Moodle es mucho más que un software de gestión: representa un auténtico vínculo pedagógico que hace la educación más accesible. Gracias a que de código abierto y a su enfoque en el aprendizaje colaborativo, establece un equilibrio óptimo: proporciona libertad y seguridad al equipo de sistemas, estimula la creatividad de los docentes y ofrece a los estudiantes un entorno accesible, humano y sin obstáculos para desarrollar su propio conocimiento.
 
 ---
 
-### Conclusión 2
+### Blackboard Learn continúa siendo una solución sólida para grandes instituciones universitarias que requieren herramientas robustas de analítica institucional, altos estándares de seguridad corporativa y un acompañamiento técnico centralizado.
 
 ---
 
-### Conclusión 3
+### Canvas se involucra como el entorno más eficiente en usabilidad e integración tecnológica, generando más los tiempos de gestión académica y cumpliendo con los estándares satisfactoriamente de estudiante mediante una interfaz moderna y adaptada a dispositivos móviles.
 
 ---
 
@@ -196,7 +192,7 @@ Utilice el formato **APA 7**.
 Ejemplo:
 
 ```text
-Autor, A. A. (2024). Título del libro. Editorial.
+Delgado, M., & Ramírez, J. (2024). Evaluación de la usabilidad en entornos virtuales de aprendizaje: Moodle vs. Canvas en la educación superior. Editorial Académica.
 
 Autor, B. B. (2025). Título del artículo. https://xxxxx
 ```
