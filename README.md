@@ -4,7 +4,7 @@
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz 
-> **Estudiante:** Ezequiel Gonzalez,Ashley Aguilar, Clixto Santos,Luis Rodriguez. 
+> **Estudiante:** Ezequiel Gonzalez,Ashley Aguilar, Calixto Santos,Luis Rodriguez. 
 > **Fecha:** 26 / 07 / 2026 
 
 ---
