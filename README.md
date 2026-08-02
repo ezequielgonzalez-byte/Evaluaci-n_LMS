@@ -222,11 +222,13 @@ https://ezequielgonzalez-byte.github.io/Evaluaci-n_LMS/
 
 **Nombre del estudiante**
 
-Ezequiel Gonzalez,Ashley Aguilar, Calixto Santo,Luis Rodriguez.
+
+'''Ezequiel Gonzalez,Ashley Aguilar, Calixto Santo,Luis Rodriguez.
+'''
 Universidad Tecnológica OTEIMA
 
 Facultad de Ciencias Tecnológicas
 
 Asignatura: Enseñanza y Aprendizaje en Línea
-
+'''
 2026.
