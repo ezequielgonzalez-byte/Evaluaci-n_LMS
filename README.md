@@ -225,8 +225,9 @@ https://ezequielgonzalez-byte.github.io/Evaluaci-n_LMS/
 
 '''Ezequiel Gonzalez,Ashley Aguilar, Calixto Santo,Luis Rodriguez.
 '''
-Universidad Tecnológica OTEIMA
 
+'''Universidad Tecnológica OTEIMA
+'''
 Facultad de Ciencias Tecnológicas
 
 Asignatura: Enseñanza y Aprendizaje en Línea
