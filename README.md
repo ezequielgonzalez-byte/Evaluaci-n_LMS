@@ -4,7 +4,7 @@
 > **Asignatura:** Enseñanza y Aprendizaje en Línea  
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz 
-> **Estudiante:** Ezequiel Gonzalez,Ashley Aguilar, Calixto Santos,Luis Rodriguez. 
+> **Grupo:** Gamma.  
 > **Fecha:** 26 / 07 / 2026 
 
 ---
@@ -163,10 +163,10 @@ La funcion de esta herramienta yuda comprender mejor la experiencia de estudiar 
 > Compare las tres plataformas considerando aspectos como:
 
 - Funcionalidades; Canva se especializa en el diseño y la creación de recursos visuales. En cuanto, Moodle y Blackboard son Sistemas de Gestión del Aprendizaje (LMS)que ofrecen administración de cursos,evaluaciones, etc.
-- Experiencia del usuario :Canva es la más sencilla. Moodle ofrece mayor flexibilidad y personalización. y Blackboard proporciona un entorno más completo para instituciones educativas.
-- Recursos pedagógicos: Moodle y Blackboard cuentan con recurso como cuestionarios, tareas, foros, rúbricas y seguimiento del progreso. Canva facilita la elaboración de recursos didácticos atractivos.
+- Experiencia del usuario :Canva es la más sencilla. Moodle ofrece mayor flexibilidad y personalización.Blackboard proporciona un entorno más completo para instituciones educativas.
+- Recursos pedagógicos: Moodle y Blackboard cuentan con recurso como cuestionarios, tareas, foros, rúbricas, entres otros. Canva facilita la elaboración de recursos didácticos atractivos.
 - Herramientas de comunicación :Moodle y Blackboard incorporan foros, mensajería, anuncios, videoconferencias e interacción entre docentes y estudiantes. Canva permite la colaboración en tiempo real y comentarios sobre los diseños.
-- Evaluación del aprendizaje :Moodle y Blackboar su plataforma es completas para exámenes, tareas, rúbricas, calificaciones y retroalimentación. en cambio Canva no está diseñada para evaluar el aprendizaje, aunque permite crear materiales que pueden utilizarse como apoyo en actividades evaluativas. 
+- Evaluación del aprendizaje :Moodle y Blackboar su plataforma es completas para exámenes,calificaciones, retroalimentación, etc. en cambio Canva no está diseñada para evaluar el aprendizaje. 
 - Facilidad de administración: Moodle requiere configuración y administración técnica. Blackboard simplifica la gestión institucional con herramientas integradas.  Canva es fácil de administrar, ya que se centra en la creación y edición de contenidos.
 - Integración con herramientas externas;  Los tres herramienta se integran con aplicaciones como Google Workspace, Microsoft 365, Zoom y otras herramientas educativas. 
 -Ventaja y limitaciones; Canva, es una herramienta de facil uso. Carece de funciones completas para la gestión de cursos. Moodle es flexible, gratuito y altamente personalizable, aunque su implementación puede ser más compleja. Blackboard ofrece un entorno robusto y completo para institucione. Las limitación es el costo de licenciamiento y mantenimiento.
@@ -192,16 +192,13 @@ Escriba tres conclusiones relevantes.
 
 Utilice el formato **APA 7**.
 
-Ejemplo:
-
-```text
 Delgado, M., & Ramírez, J. (2024). Evaluación de la usabilidad en entornos virtuales de aprendizaje: Moodle vs. Canvas en la educación superior. Editorial Académica.
 
 Autor, B. B. (2025). Título del artículo. https://xxxxx
 ```
-
----
-
+Instructure. (s. f.). Canvas LMS. https://www.instructure.com/canvas
+Blackboard Inc.. (s. f.). Blackboard Learn Help. https://help.blackboard.com/Learn
+,,,
 # 🔗 Evidencias
 
 ## Repositorio GitHub
@@ -209,17 +206,14 @@ Autor, B. B. (2025). Título del artículo. https://xxxxx
 Pegue aquí el enlace del repositorio.
 
 ```
-https://github.com/usuario/evaluacion-LMS
+https://ezequielgonzalez-byte.github.io/Evaluaci-n_LMS/
 ```
 
 ---
 
 ## GitHub Pages (Opcional)
-
-Si publicó el proyecto mediante GitHub Pages, coloque aquí el enlace.
-
 ```
-https://usuario.github.io/evaluacion-LMS/
+https://ezequielgonzalez-byte.github.io/Evaluaci-n_LMS/
 ```
 
 ---
@@ -227,7 +221,7 @@ https://usuario.github.io/evaluacion-LMS/
 # 👨‍💻 Autor
 
 **Nombre del estudiante**
-
+Ezequiel Gonzalez,Ashley Aguilar, Calixto Santo,Luis Rodriguez.
 Universidad Tecnológica OTEIMA
 
 Facultad de Ciencias Tecnológicas
