@@ -5,7 +5,7 @@
 > **Universidad:** Universidad Tecnológica OTEIMA  
 > **Docente:** Briseida Cruz
 >
-> **Grupo:** Gamma. 
+> **Grupo:** Gamma.  
 
 > **Fecha:** 26 / 07 / 2026 
 
