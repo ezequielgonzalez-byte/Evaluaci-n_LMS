@@ -35,7 +35,7 @@ El presente estudio evaluó de manera comparativa las plataformas de gestión de
 - Contenido Digital
 - Recurso educativo
 - Tecnologìa educativa
-- Plataforma digital
+- Plataforma digital.
 
 ---
 
