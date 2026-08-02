@@ -195,8 +195,6 @@ Escriba tres conclusiones relevantes.
 Utilice el formato **APA 7**.
 
 Delgado, M., & Ramírez, J. (2024). Evaluación de la usabilidad en entornos virtuales de aprendizaje: Moodle vs. Canvas en la educación superior. Editorial Académica.
-
-Autor, B. B. (2025). Título del artículo. https://xxxxx
 ```
 Instructure. (s. f.). Canvas LMS. https://www.instructure.com/canvas
 Blackboard Inc.. (s. f.). Blackboard Learn Help. https://help.blackboard.com/Learn
