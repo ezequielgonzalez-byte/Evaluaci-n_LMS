@@ -39,11 +39,15 @@ El presente estudio evaluó de manera comparativa las plataformas de gestión de
 
 ---
 
-# 📚 Introducción
+# 📚 Introducción>
+> Como ya sabemos hoy en dìas, las plataformas juega su rol fundamental en la educación y el aprendizaje en línea. A continuaciòn tenemos la herramienta Canva, Moodle y Blackboard han transformado la manera en que docentes y estudiantes crean, comparten y gestionan contenidos educativos. El uso de estas recurso educativo a contribuido la mejorar la calidad de la educación, promoviendo el aprendizaje colaborativo, y el acceso a los recursos desde cualquier rinco y en cualquier momento. Gracias a sus funcionalidades, esta herramienta se ha convertido en herramientas esenciales para la educación presencial, virtual e híbrida.
 
 ## Antecedentes
 
-> Explique brevemente qué son los LMS y su evolución.
+> Explique brevemente que son los MLS y su evoluciòn.
+>Son herramientas digitales que esta diseñadas para crear, administrar, distribuir y evaluar cursos en línea. su finalidad es permitir al docentes y estudiantes acceder a materiales educativos, realizar actividades, presentar evaluaciones y dar seguimiento al progreso, desde distancia siempre contando con el acceso de internet.
+
+La evolución comenzó con sistemas básicos para compartir documentos y contenidos educativos. Deacuerdo al abance de la tecnología, los LMS incorporaro herramientas de comunicación, videoconferencias, evaluaciones automatizadas, aprendizaje móvil, entres otros. Actualmente la plataformas como Moodle, Blackboard y Canvas ofrecen entornos de aprendizaje completos, interactivos y colaborativos.
 
 ---
 
@@ -158,15 +162,14 @@ La funcion de esta herramienta yuda comprender mejor la experiencia de estudiar 
 
 > Compare las tres plataformas considerando aspectos como:
 
-- Funcionalidades
-- Experiencia del usuario
-- Recursos pedagógicos
-- Herramientas de comunicación
-- Evaluación del aprendizaje
-- Facilidad de administración
-- Integración con herramientas externas
-- Ventajas y limitaciones
-
+- Funcionalidades; Canva se especializa en el diseño y la creación de recursos visuales. En cuant, Moodle y Blackboard son Sistemas de Gestión del Aprendizaje (LMS) que ofrecen administración de cursos, organización de contenidos,evaluaciones, etc.
+- Experiencia del usuario :Canva es la más sencilla e intuitiva. Moodle ofrece mayor flexibilidad y personalización. y Blackboard proporciona un entorno más completo para instituciones educativas.
+- Recursos pedagógicos: Moodle y Blackboard cuentan con recurso como cuestionarios, tareas, foros, rúbricas y seguimiento del progreso. Canva facilita la elaboración de recursos didácticos atractivos.
+- Herramientas de comunicación :Moodle y Blackboard incorporan foros, mensajería, anuncios, videoconferencias e interacción entre docentes y estudiantes. Canva permite la colaboración en tiempo real y comentarios sobre los diseños.
+- Evaluación del aprendizaje :Moodle y Blackboar su plataforma es completas para exámenes, tareas, rúbricas, calificaciones y retroalimentación. en cambio Canva no está diseñada para evaluar el aprendizaje, aunque permite crear materiales que pueden utilizarse como apoyo en actividades evaluativas. 
+- Facilidad de administración: Moodle requiere configuración y administración técnica. Blackboard simplifica la gestión institucional con herramientas integradas.  Canva es fácil de administrar, ya que se centra en la creación y edición de contenidos.
+- Integración con herramientas externas;  Los tres herramienta se integran con aplicaciones como Google Workspace, Microsoft 365, Zoom y otras herramientas educativas. 
+-Ventaja y limitaciones; Canva, es una herramienta de facil uso. Carece de funciones completas para la gestión de cursos. Moodle es flexible, gratuito y altamente personalizable, aunque su implementación puede ser más compleja. Blackboard ofrece un entorno robusto y completo para institucione. Las limitación es el costo de licenciamiento y mantenimiento.
 ---
 
 # 🎯 Conclusiones
