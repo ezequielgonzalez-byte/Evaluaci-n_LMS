@@ -231,4 +231,4 @@ Facultad de Ciencias Tecnológicas
 
 Asignatura: Enseñanza y Aprendizaje en Línea
 
-2026
+2026.
