@@ -223,6 +223,7 @@ https://ezequielgonzalez-byte.github.io/Evaluaci-n_LMS/
 # 👨‍💻 Autor
 
 **Nombre del estudiante**
+
 Ezequiel Gonzalez,Ashley Aguilar, Calixto Santo,Luis Rodriguez.
 Universidad Tecnológica OTEIMA
 
