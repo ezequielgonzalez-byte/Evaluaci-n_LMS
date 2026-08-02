@@ -31,11 +31,11 @@ El presente estudio evaluó de manera comparativa las plataformas de gestión de
 > Escriba un máximo de cinco palabras clave en orden alfabético.
 
 
-- Tecnología Educativa
-- Plataformas Educativas
-- Interoperabilidad
-- MoodleEntornos Virtuales de Aprendizaje (EVA)
-
+- Aula virtual
+- Contenido Digital
+- Recurso educativo
+- Tecnologìa educativa
+- Plataforma digital
 
 ---
 
